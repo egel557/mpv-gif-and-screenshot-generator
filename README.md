@@ -17,13 +17,13 @@ First of all, you must make sure `ffmpeg` is in your `%PATH%` and accesible via 
 # Configuration
 
 After setup, and if you wish, create a `%APPDATA%/mpv/script-opts` directory if it isn't created already and write a `gif.conf` file to configure the script. Here's a sample configuration file:
-`
+```
 dir="C:/Users/%USERNAME%/Pictures/mpv_gifs"
 screenshots_dir="C:/Users/%USERNAME%/Pictures/mpv_screenshots"
 gif_rez=320
 screenshot_rez=320
 fps=10
-`
+```
 
  
 ## Hotkeys
